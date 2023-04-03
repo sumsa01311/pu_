@@ -36,6 +36,8 @@ body {
   /* For mobile phones: */
   [class*="col-"] {
     width: 100%;
+  }
+}
 article,
 aside,
 details,
